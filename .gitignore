@@ -1,0 +1,17 @@
+# Fichiers temporaires Power BI / Office
+# Dossier de cache créé par Power BI réglages locaux du  PC
+.pbi/
+
+# Fichier temporaire créé pendant la sauvegarde d'un .pbix
+*.pbix.tmp
+
+# Fichiers de verrouillage Office comme  ~$rapport.xlsx  présents quand un fichier est ouvert
+~$*
+
+# Tous les autres fichiers temporaires
+*.tmp
+
+# Système 
+
+# Fichier de miniatures créé automatiquement par Windows
+Thumbs.db
