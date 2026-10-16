@@ -15,3 +15,7 @@
 
 # Fichier de miniatures créé automatiquement par Windows
 Thumbs.db
+
+design/* 
+
+!design/.gitkeep
